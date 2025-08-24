@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Kulkarni</h1>
-<h3 align="center">Business Analyst | Forex Trader | Data Science Enthusiast | Co-Owner @ Quant Terminal</h3>
+<h3 align="center">Business Analyst | Forex Trader | Co-Owner @ Quant Terminal</h3>
 
 - 🔭 I’m currently building **[Quant Terminal](https://github.com/Nirav003/Quant-Terminal)** – a trading & analytics platform  
 - 📊 I trade actively in the **Foreign Exchange (Forex) market**  
